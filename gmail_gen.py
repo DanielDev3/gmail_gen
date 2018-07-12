@@ -1,7 +1,5 @@
 # Python 3.6.5
 # Use this script tp generate gmails based on the cell phone, user's first name, and Organization
-# thanks to max s for being the creator of this script.
-# i simply modified it a little ;)
 
 import random
 def generateAccount():
